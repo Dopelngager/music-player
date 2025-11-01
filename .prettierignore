@@ -1,0 +1,15 @@
+# Ignore artifacts:
+.gitignore
+node_modules
+.next
+.husky
+.json
+*.html
+
+.cache
+.fleet
+package-lock.json
+public
+next-env.d.ts
+next.config.ts
+yarn.lock
